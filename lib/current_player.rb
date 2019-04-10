@@ -5,6 +5,6 @@ def turn_count(board)
     turns += 1 
   end
 end 
-retun 
+return turns
   
 end
